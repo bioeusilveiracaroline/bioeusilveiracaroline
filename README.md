@@ -1,5 +1,8 @@
 _Seja bem vindo, ao meu perfil do Github 🌺_
 
+<h1 align="center"> **Caroline Bioeu Silveira**</h1>
+
+
 - **Caroline Bioeu Silveira**
 - Tenho 17 anos
 - Estudo programação 👩‍💻
@@ -20,5 +23,7 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 - Tenho mais amizade com os meninos da sala do que com as meninas 🙍‍♂️✔️
 - Sou muito pensativa e desconfiada 🤔
 
-
+<p>
+  
+</p>
 
