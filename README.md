@@ -3,9 +3,9 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 <h1 align="center"> **Caroline Bioeu Silveira**</h1>
 
 
-- **Caroline Bioeu Silveira**
+  **Caroline Bioeu Silveira**
 
-- _**Características**_
+  _**Características**_
 - Tenho 17 anos
 - Tenho 1,64 de altura
 - Sou tímida
@@ -16,17 +16,17 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 - Estudo no Colégio Estadual Rui Barbosa e.f.m.
 - Sou inteligente 
 
-_**Contatos**_
+  _**Contatos**_
 
-- _e-mail_
-- caroline.bioeu.silveira@escola.pr.gov.br
-- _WhatsApp_
-- (42)99126-1915
-- _Instagram_
-- @caroline.bioeu
+   - _e-mail_
+   caroline.bioeu.silveira@escola.pr.gov.br
+   - _WhatsApp_
+   (42)99126-1915
+   - _Instagram_
+   @caroline.bioeu
 
 
-_**Pontos positivos**_
+  _**Pontos positivos**_
 - Faço aulas de programação toda semana 👩‍💻
 - Faço aula de Altas Habilidades 🤓
 - Amo aulas de matemática 📊
@@ -41,7 +41,7 @@ _**Pontos positivos**_
 - Pretendo me formar em contabilidade 👩🏼‍🎓
 
 
--_**Pontos negativos**_
+  _**Pontos negativos**_
 
 
 - Não gosto de nenhum tipo de esportes 🏀❌
