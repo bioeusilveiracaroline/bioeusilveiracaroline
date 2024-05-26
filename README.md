@@ -2,19 +2,16 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 
 <h1 align="center"> **Caroline Bioeu Silveira**</h1>
 
-
-  **Caroline Bioeu Silveira**
-
   _**Características**_
 - Tenho 17 anos
-- Tenho 1,64 de altura
-- Sou tímida
-- Tenho olhos claros
+- Tenho 1,64 de altura 🧍‍♀️
+- Sou tímida ☺
+- Tenho olhos claros 💚
 - Sou loira dos cabelos compridos
 - Sou magra
 - Sou estudante da 3° série do Novo Ensino Médio
-- Estudo no Colégio Estadual Rui Barbosa e.f.m.
-- Sou inteligente 
+- Estudo no Colégio Estadual Rui Barbosa e.f.m. 🏤
+- Sou inteligente 📚
 
   _**Contatos**_
 
@@ -30,6 +27,7 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 - Faço aulas de programação toda semana 👩‍💻
 - Faço aula de Altas Habilidades 🤓
 - Amo aulas de matemática 📊
+- Entendo bem a matéria de química 🧪
 - Gosto de aprender coisas novas 📝
 - Trabalho bem em equipe 🧑‍🧑‍🧒‍🧒
 - Sou muito dedicada em tudo que faço ✍🏻 
@@ -44,13 +42,13 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
   _**Pontos negativos**_
 
 
-- Não gosto de nenhum tipo de esportes 🏀❌
+- Não gosto de nenhum tipo de esportes ❌🤽‍♀️🏓⛹‍♀️🤾‍♀️❌
 - Não tenho espírito de liderança 💡❌
 - Não lido bem com emoções 🥹
 - Tenho mais amizade com os meninos da sala do que com as meninas 🙍‍♂️✔️
 - Sou muito pensativa e desconfiada 🤔
-- Não acredito no meu potencial
-- Me importo muito com opiniões alheias
-- Quando não vou bem em alguma avaliação me sinto um fracasso 
+- Não acredito no meu potencial 🤦‍♀️
+- Me importo muito com opiniões alheias 😢
+- Quando não vou bem em alguma avaliação me sinto um fracasso 😪
 
 
