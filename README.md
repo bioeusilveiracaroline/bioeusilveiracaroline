@@ -14,14 +14,14 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 - Sou inteligente 📚
 
   _**Contatos**_
-
-   - _e-mail_
+<ul>
+    <li> e-mail <img width="15px" src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"></li>
    caroline.bioeu.silveira@escola.pr.gov.br
-   - _WhatsApp_
+  <li> WhatsApp <img width="15px" src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png"></li>
    (42)99126-1915
-   - _Instagram_
+   <li> Instagram <img width="15px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png"></li>
    @caroline.bioeu
-
+</ul>
 
   _**Pontos positivos**_
 - Faço aulas de programação toda semana 👩‍💻
