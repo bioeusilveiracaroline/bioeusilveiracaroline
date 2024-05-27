@@ -27,7 +27,7 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
     <a href="">@caroline.bioeu</a>
 </ul>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUZZ6EvhtpitsBZoo4Ai2v3b934SlDnK-THWHlX4j2VQ&s" alt="pontos positivos">
+<img width="500px" src="https://media.tenor.com/WAu9Dgz9D6EAAAAM/hmm-hm.gif" alt="pontos positivos">
 
   _**Pontos positivos**_
 - Faço aulas de programação toda semana 👩‍💻
@@ -44,7 +44,7 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 - Tenho alguns certificados de Honra ao Mérito 🏅
 - Pretendo me formar em contabilidade 👩🏼‍🎓
 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFGMXAP2RQQUpoiT0NhvsRxVqk7sqyXBwBQ4sfIegxbANi5uQ33D422wvKoX4LYIJkk0&usqp=CAU" alt="gato oculus">
+  <img width="500px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZf7jUOP88p9e4eV8FSSbbL1UDGjZdfJ3HoZ6CkamW32sJEtBZws1qO9onGCQvwlAT0po9f2FD8WfuU0hcnfxpGo6TvkKwJlg_5IegJrZh5o5gQFF0r2zOpRxEdbkgXsyUSylnNCbAd8Rd/s640/bomruim1.gif" alt="gato oculus">
 
   _**Pontos negativos**_
 
