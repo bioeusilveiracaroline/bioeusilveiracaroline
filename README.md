@@ -8,7 +8,7 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 
   _**Características**_
 - Tenho 17 anos 🎊
-- Tenho 1,64 de altura 🧍‍♀️
+- Tenho 1,64 de altura 📏
 - Sou tímida ☺
 - Tenho olhos claros 💚
 - Tenho cabelos compridos 👩🏻
@@ -56,5 +56,6 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 - Não acredito no meu potencial 🤦‍♀️
 - Me importo muito com opiniões alheias 😢
 - Quando não vou bem em alguma avaliação me sinto um fracasso 😪
+- Não gosto de ler 📚
 
 
