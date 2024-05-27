@@ -14,9 +14,9 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 - Tenho olhos claros 💚
 - Tenho cabelos compridos 👩🏻
 - Sou magra 🧍‍♀️
-- Sou estudante da 3° série do Novo Ensino Médio 3️⃣
+- Sou estudante da 3° série do Novo Ensino Médio 3️⃣📔✏️
 - Estudo no Colégio Estadual Rui Barbosa e.f.m. 🏤
-- Sou inteligente 
+- Sou inteligente 📒
 
   _**Contatos**_
 <ul>
