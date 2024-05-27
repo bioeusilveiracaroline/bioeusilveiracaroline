@@ -1,4 +1,4 @@
-_Seja bem vindo, ao meu perfil do Github 🌺_
+                                           _Seja bem vindo, ao meu perfil do Github 🌺_
  
 <h1 align="center"> **Caroline Bioeu Silveira** <hr> <img width="450px" src="https://i.pinimg.com/736x/e8/71/bd/e871bd2519d4ea9b9cf18f3fa00d3579.jpg" alt="caroline bioeu"></h1>
 
@@ -6,14 +6,15 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 
 <img src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-caracteristicas-4.gif" alt="caracteristicas">
 
-  _**Características**_
+ 
 - Tenho 17 anos 🎊
-- Tenho 1,64 de altura 🧍‍♀️
-- Sou tímida ☺
+- Tenho 1,64 de altura  📏 
+- Sou tímida 😊
+- Moro no interior, da cidade de Nova Laranjeiras-PR 📍
 - Tenho olhos claros 💚
 - Tenho cabelos compridos 👩🏻
-- Sou magra 
-- Sou estudante da 3° série do Novo Ensino Médio 3️⃣
+- Sou magra 🧍‍♀️
+- Sou estudante da 3° série do Novo Ensino Médio 3️⃣📕✏️
 - Estudo no Colégio Estadual Rui Barbosa e.f.m. 🏤
 - Sou inteligente 📚
 
@@ -27,9 +28,17 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
     <a href="">@caroline.bioeu</a>
 </ul>
 
+
+
+ 
+ _**Pontos positivos**_
+
+
+
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUZZ6EvhtpitsBZoo4Ai2v3b934SlDnK-THWHlX4j2VQ&s" alt="pontos positivos">
 
-  _**Pontos positivos**_
+
 - Faço aulas de programação toda semana 👩‍💻
 - Faço aula de Altas Habilidades 🤓
 - Amo aulas de matemática 📊
@@ -43,10 +52,14 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 - Ganhei medalha da olímpiada dos saberes 🥉
 - Tenho alguns certificados de Honra ao Mérito 🏅
 - Pretendo me formar em contabilidade 👩🏼‍🎓
+- Quero abrir meu próprio negócio 💪💰
 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFGMXAP2RQQUpoiT0NhvsRxVqk7sqyXBwBQ4sfIegxbANi5uQ33D422wvKoX4LYIJkk0&usqp=CAU" alt="gato oculus">
 
   _**Pontos negativos**_
+
+  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFGMXAP2RQQUpoiT0NhvsRxVqk7sqyXBwBQ4sfIegxbANi5uQ33D422wvKoX4LYIJkk0&usqp=CAU" alt="gato oculus">
+
 
 - Não gosto de nenhum tipo de esportes ❌🤽‍♀️🏓⛹‍♀️🤾‍♀️❌
 - Não tenho espírito de liderança 💡❌
@@ -56,5 +69,6 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 - Não acredito no meu potencial 🤦‍♀️
 - Me importo muito com opiniões alheias 😢
 - Quando não vou bem em alguma avaliação me sinto um fracasso 😪
+- Não gosto de ler 📚
 
 
