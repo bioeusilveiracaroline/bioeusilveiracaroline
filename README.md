@@ -1,6 +1,10 @@
 _Seja bem vindo, ao meu perfil do Github 🌺_
+ 
+<h1 align="center"> **Caroline Bioeu Silveira** <hr> <img width="450px" src="https://i.pinimg.com/736x/e8/71/bd/e871bd2519d4ea9b9cf18f3fa00d3579.jpg" alt="caroline bioeu"></h1>
 
-<h1 align="center"> **Caroline Bioeu Silveira**</h1>
+
+
+<img src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-caracteristicas-4.gif" alt="caracteristicas">
 
   _**Características**_
 - Tenho 17 anos
@@ -16,12 +20,14 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
   _**Contatos**_
 <ul>
     <li> e-mail <img width="15px" src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"></li>
-   caroline.bioeu.silveira@escola.pr.gov.br
+   <a href=""> caroline.bioeu.silveira@escola.pr.gov.br </a>
   <li> WhatsApp <img width="15px" src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png"></li>
-   (42)99126-1915
+    <a href="">(42)99126-1915 </a>
    <li> Instagram <img width="15px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png"></li>
-   @caroline.bioeu
+    <a href="">@caroline.bioeu</a>
 </ul>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUZZ6EvhtpitsBZoo4Ai2v3b934SlDnK-THWHlX4j2VQ&s" alt="pontos positivos">
 
   _**Pontos positivos**_
 - Faço aulas de programação toda semana 👩‍💻
@@ -38,9 +44,9 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 - Tenho alguns certificados de Honra ao Mérito
 - Pretendo me formar em contabilidade 👩🏼‍🎓
 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFGMXAP2RQQUpoiT0NhvsRxVqk7sqyXBwBQ4sfIegxbANi5uQ33D422wvKoX4LYIJkk0&usqp=CAU" alt="gato oculus">
 
   _**Pontos negativos**_
-
 
 - Não gosto de nenhum tipo de esportes ❌🤽‍♀️🏓⛹‍♀️🤾‍♀️❌
 - Não tenho espírito de liderança 💡❌
