@@ -1,4 +1,4 @@
-_Seja bem vindo, ao meu perfil do Github 🌺_
+_🌺Seja bem vindo, ao meu perfil do Github 🌺_
  
 <h1 align="center"> **Caroline Bioeu Silveira** <hr> <img width="450px" src="https://i.pinimg.com/736x/e8/71/bd/e871bd2519d4ea9b9cf18f3fa00d3579.jpg" alt="caroline bioeu"></h1>
 
@@ -31,6 +31,10 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 <img width="500px" src="https://media.tenor.com/WAu9Dgz9D6EAAAAM/hmm-hm.gif" alt="pontos positivos">
 
   _**Pontos positivos**_
+
+
+<img width="500px" src="https://media.tenor.com/WAu9Dgz9D6EAAAAM/hmm-hm.gif" alt="pontos positivos">
+  
 - Faço aulas de programação toda semana 👩‍💻
 - Faço aula de Altas Habilidades 🤓
 - Amo aulas de matemática 📊
