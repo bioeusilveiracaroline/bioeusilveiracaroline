@@ -7,13 +7,13 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 <img src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-caracteristicas-4.gif" alt="caracteristicas">
 
   _**Características**_
-- Tenho 17 anos
+- Tenho 17 anos 🎊
 - Tenho 1,64 de altura 🧍‍♀️
 - Sou tímida ☺
 - Tenho olhos claros 💚
-- Sou loira dos cabelos compridos
-- Sou magra
-- Sou estudante da 3° série do Novo Ensino Médio
+- Tenho cabelos compridos 👩🏻
+- Sou magra 
+- Sou estudante da 3° série do Novo Ensino Médio 3️⃣
 - Estudo no Colégio Estadual Rui Barbosa e.f.m. 🏤
 - Sou inteligente 📚
 
@@ -41,7 +41,7 @@ _Seja bem vindo, ao meu perfil do Github 🌺_
 - Sou uma pessoa muito observadora 🕵️
 - Gosto de fazer bolos e doces 🎂🍧
 - Ganhei medalha da olímpiada dos saberes 🥉
-- Tenho alguns certificados de Honra ao Mérito
+- Tenho alguns certificados de Honra ao Mérito 🏅
 - Pretendo me formar em contabilidade 👩🏼‍🎓
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFGMXAP2RQQUpoiT0NhvsRxVqk7sqyXBwBQ4sfIegxbANi5uQ33D422wvKoX4LYIJkk0&usqp=CAU" alt="gato oculus">
