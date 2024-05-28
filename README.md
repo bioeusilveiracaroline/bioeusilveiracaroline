@@ -39,7 +39,8 @@
 
   <p align="center"><img align="center" width="300px" src="https://media.tenor.com/WAu9Dgz9D6EAAAAM/hmm-hm.gif" alt="pontos positivos"></p>
  
- <div align="center"> 
+ <div align="center">
+  
  Faço aulas de programação toda semana 👩‍💻
  
  Faço aula de Altas Habilidades 🤓
